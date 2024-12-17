@@ -71,11 +71,11 @@ The project is implemented in Jupyter Notebooks, where the analysis utilizes adv
 ### Key Insights:
 
 1.	Sales Trends:
-- Monthly and yearly analysis of sales volume shows seasonal patterns in home sales.
+    - Monthly and yearly analysis of sales volume shows seasonal patterns in home sales.
 2.	Price Analysis:
-- Identified trends in average and median home prices over time.
+    - Identified trends in average and median home prices over time.
 3.	Regional Analysis:
-* Compared home prices and sales volume across different regions.
+    - Compared home prices and sales volume across different regions.
 ---
 
 ## Author
