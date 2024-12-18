@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Author](#author)
 
 ---
 
@@ -77,10 +76,3 @@ The project is implemented in Jupyter Notebooks, where the analysis utilizes adv
 3.	Regional Analysis:
     - Compared home prices and sales volume across different regions.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
